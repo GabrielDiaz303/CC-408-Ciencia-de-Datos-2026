@@ -1,4 +1,4 @@
-# CC-408 Ciencia de Datos 2026
+# CC408 Ciencia de Datos 2026
 
 Bienvenidos al repositorio del curso **Ciencia de Datos** de la Universidad de San Andrés, semestre **Primavera 2026**. Acá encontrarán los materiales de cada clase organizados en carpetas separadas.
 
@@ -10,7 +10,7 @@ Cada carpeta contiene los materiales correspondientes a una clase, incluyendo no
 |---------|----------|-------|
 | `Tutorial_0` | Introducción a Python | |
 | `Tutorial_1` | Introducción a Python II: entorno de trabajo, pandas, numpy y gráficos | |
-| `Tutorial_2` | GitHub y web scraping. Presentación de la base de datos | |
+| `Tutorial_2` | GitHub y web scraping. Presentación de la base de datos | Sentiment Analysis |
 | `Tutorial_3` | Kernels | |
 | `Tutorial_4` | PCA | |
 | `Tutorial_5` | Clusters | |
